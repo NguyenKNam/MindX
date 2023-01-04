@@ -36,9 +36,9 @@ ol, ul, li {
         position: absolute;
         width: 544px;
         height: 759px;
-        left: -27px;
+        left: 0px;
         top: 0px;
-
+        background: url(/MindX/Lesson3/IMG/avatar.jpg);
     }
 
 .container__name{
